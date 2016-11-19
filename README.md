@@ -1,4 +1,4 @@
 # hello-world
-First project of Himadri
+First project of HM
 
 Now this is edited version.
